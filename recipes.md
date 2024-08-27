@@ -6,4 +6,5 @@ collection: people
 entries_layout: grid
 ---
 
-Sample document listing for the collection `_people`.
+Lab members
+<!-- Sample document listing for the collection `_people`. -->
