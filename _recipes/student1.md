@@ -1,12 +1,12 @@
 ---
-title: "Chocolate Chip Cookies"
+title: ""
 image: 
-  path: /assets/images/chocolate-chip-cookies-lg.jpg
-  thumbnail: /assets/images/chocolate-chip-cookies-400x200.jpg
-  caption: "Photo from [Pexels](https://www.pexels.com)"
+  path: /assets/images/Su.jpg
+  thumbnail: /assets/images/Su.jpg
+  # caption: "Photo from [Pexels](https://www.pexels.com)"
 ---
 
-A chocolate chip cookie is a drop cookie that originated in the United States and features chocolate chips as its distinguishing ingredient.
+Ph.D student joined in 2017.
 
 The traditional recipe combines a dough composed of butter and both brown and white sugar with semi-sweet chocolate chips. Variations include recipes with other types of chocolate as well as additional ingredients such as nuts or oatmeal.
 

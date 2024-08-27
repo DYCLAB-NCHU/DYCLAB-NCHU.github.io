@@ -1,8 +1,8 @@
 ---
-title: Recipes
+title: People
 layout: collection
-permalink: /recipes/
-collection: recipes
+permalink: /people/
+collection: people
 entries_layout: grid
 ---
 
