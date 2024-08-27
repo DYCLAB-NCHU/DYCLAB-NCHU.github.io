@@ -2,7 +2,7 @@
 title: People
 layout: collection
 permalink: /people/
-collection: people
+collection: recipes
 entries_layout: grid
 ---
 
