@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Rabbit on
-email: cysh010479@gmail.com
+title: DYC Lab
+email: dychao@dragon.nchu.edu.tw
 description: ""
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: https://dyclab-nchu.github.io  # the base hostname & protocol for your site, e.g. http://example.com
@@ -81,7 +81,7 @@ exclude:
   - /example # ignore Basically Basic dev site
 
 collections:
-  recipes:
+  people:
     output: true
     permalink: /:collection/:path/
 
