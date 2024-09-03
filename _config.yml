@@ -35,18 +35,20 @@ algolia:
   powered_by: # true (default), false
 
 
-disqus:
-    shortname: Eric
 # Build settings
 markdown: kramdown
-
-#theme: jekyll-theme-basically-basic
-plugins:
+# theme: jekyll-theme-basically-basic
+plugins: # previsously gems
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  # - jekyll-feed
+  # - jekyll-seo-tag
+  # - jekyll-sitemap
+  # - jekyll-paginate
+
 feed:
   path: atom.xml
 
@@ -55,20 +57,28 @@ paginate: 10
 paginate_path: /page:num/
 
 # Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-# Outputting
-permalink: /posts/:categories/:year/:month/:day/:title/
-
+exclude:
+  - .asset-cache
+  - .bundle
+  - .codeclimate.yml
+  - .editorconfig
+  - .gitattributes
+  - .jekyll-assets-cache
+  - .sass-cache
+  - .scss-lint.yml
+  - CHANGELOG
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - node_modules
+  - Rakefile
+  - README
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - /docs # ignore Basically Basic sample site
+  - /example # ignore Basically Basic dev site
 
 collections:
   recipes:
@@ -84,9 +94,10 @@ defaults:
     values:
       layout: post
       read_time: true
+  # _recipes
   - scope:
-      path: "_people"
+      path: "_recipes"
       type: recipes
     values:
       layout: post
-      read_time: true
+      read_time: false
