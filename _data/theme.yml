@@ -16,8 +16,7 @@ t:
   newer: "Newer"
   older: "Older"
   email: "Email"
-  subscribe: "Subscribe"
-  read_more: "Read More"
+  # subscribe: "Subscribe"
   posts: "Posts"
   page: "Page"
   of: "of"
@@ -49,9 +48,11 @@ google_fonts:
 # pages that have a `title`. Add raw page paths in the order you'd like.
 
 navigation_pages:
-  - posts.md
-  - recipes.md
   - about.md
   - cv.md
+  - posts.md
   - tags.md
   - categories.md
+  - publications.md
+  - projects.md
+  

@@ -1,0 +1,108 @@
+{
+  "basics": {
+    "name": "Bo-Jia Chen, Ph.D. Cand.",
+    "label": "Biological data perspecter",
+    "picture": "",
+    "email": "cysh010479@gmail.com",
+    "website": "https://bj-chen-eric.github.io",
+    "summary": "National Chung Hsing University, 2018-2024",
+    "profiles": [
+  
+      {
+        "network": "Linkedln",
+        "username": "BoJia Chen",
+        "url": "https://linkedin.com/in/mduma"
+      },
+
+    ]
+  },
+  "work and exchanges": [
+     {
+      "company": "Dr.Day-Yu Chao lab, NCHU",
+      "position": "Ph.D. Candidate",
+      "website": "https://dyclab-nchu.github.io",
+      "startDate": "20218",
+      "endDate": "Up-to-date",
+      "summary": "Working the NGS field including but not limited in transcritomic, genomic, pipeline construction"
+    },
+    
+    {
+      "company": "Dr.Jame J Cai lab, TAMU",
+      "position": "Exchange researcher",
+      "website": "https://cailab-tamu.github.io",
+      "startDate": "2018.10",
+      "endDate": "2018.12",
+      "summary": ""
+    },
+    
+    {
+      "company": "Dr.Jame J Cai lab, TAMU",
+      "position": "Exchange researcher",
+      "website": "https://cailab-tamu.github.io",
+      "startDate": "2020.12",
+      "endDate": "2021.5",
+      "summary": ""
+    }
+
+  ],
+  "volunteer": [
+    {
+      "organization": "Pythontz",
+      "position": "Communication Officer",
+      "website": "https://pythontz.github.io",
+      "startDate": "2017",
+      "endDate": "2018",
+      "summary": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "National Chung Hsing University",
+      "area": "Ph.D. program in microbiome genomics",
+      "studyType": "Ph.D.",
+      "startDate": "2020",
+      "endDate": "2024",
+      "courses": 
+    },
+      
+    {
+      "institution": "National Chung Hsing University",
+      "area": "Grand Institute of micribiome and public health",
+      "studyType": "Masters Degree",
+      "startDate": "2018",
+      "endDate": "2020",
+      "courses": 
+    }
+  ],
+ 
+  "skills": [
+    {
+      "name": "R and shell programing",
+      "level": "",
+      "keywords":
+    },
+    {
+      "name": "NGS analysis",
+      "level": ,
+      "keywords": 
+    }
+  ],
+  "languages": [
+    {
+      "language": "Mandarin and English",
+      "fluency": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Explore the posibility of the high-throughput sequencing data",
+      "keywords": 
+    }
+  ],
+  "references": [
+    {
+      "name": " Anthony Faustine",
+      "reference": "It is my pleasure to recommend Neema, her performance working as a communication officer at pythontz  proved that she will be a valuable addition to any company."
+    }
+  ]
+}
