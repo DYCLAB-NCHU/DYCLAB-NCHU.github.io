@@ -49,10 +49,8 @@ google_fonts:
 
 navigation_pages:
   - about.md
-  - cv.md
   - posts.md
-  - tags.md
-  - categories.md
+  - people.md
   - publications.md
   - projects.md
   

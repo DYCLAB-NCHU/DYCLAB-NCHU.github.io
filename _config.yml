@@ -18,7 +18,7 @@ title: Rabbit on
 email: cysh010479@gmail.com
 description: ""
 baseurl: ""  # the subpath of your site, e.g. /blog
-url: "https://bj-chen-eric.github.io/"  # the base hostname & protocol for your site, e.g. http://example.com
+url: https://dyclab-nchu.github.io  # the base hostname & protocol for your site, e.g. http://example.com
 author:
   name: Eric
   picture: /assets/images/Eric_profile.jpg
@@ -70,10 +70,10 @@ paginate_path: /page:num/
 permalink: /posts/:categories/:year/:month/:day/:title/
 
 
-# collections:
-#   recipes:
-#     output: true
-#     permalink: /:collection/:path/
+collections:
+  recipes:
+    output: true
+    permalink: /:collection/:path/
 
 # Front Matter Defaults
 defaults:
@@ -81,6 +81,12 @@ defaults:
   - scope:
       path: "_posts"
       type: posts
+    values:
+      layout: post
+      read_time: true
+  - scope:
+      path: "_people"
+      type: recipes
     values:
       layout: post
       read_time: true
