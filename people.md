@@ -1,5 +1,5 @@
 ---
-title: People
+title: Members
 layout: collection
 permalink: /people/
 collection: people

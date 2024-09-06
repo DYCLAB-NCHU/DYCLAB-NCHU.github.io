@@ -16,7 +16,7 @@
 lang: en-US
 title: DYC Lab
 email: dychao@dragon.nchu.edu.tw
-description: ""
+description: "Day-Yu Chao Lab in Grade institute of Public Health and Microbioloy, National Chung Hsing University"
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: https://dyclab-nchu.github.io  # the base hostname & protocol for your site, e.g. http://example.com
 author:
@@ -96,8 +96,8 @@ defaults:
       read_time: true
   # _recipes
   - scope:
-      path: "_recipes"
-      type: recipes
+      path: "_people"
+      type: people
     values:
       layout: post
       read_time: false
