@@ -1,6 +1,6 @@
 ---
 title: Members
-layout: collection
+layout: post
 permalink: /people/
 collection: people
 entries_layout: grid

@@ -24,7 +24,7 @@ author:
   picture: /assets/images/Eric_profile.jpg
 # twitter_username: Nakadori
 github_username: bj-chen-eric
-logo: /assets/icons/icon.png
+logo: /assets/icons/dyc_icon.png
 search: true # true, false (default)
 search_full_content: true # true, false (default)
 search_provider: lunr # lunr (default), algolia
