@@ -1,5 +1,6 @@
 ---
 title: "Super Stupid Susun"
+layout: post
 # image: 
 #   path: /assets/images/Su.png
 #   thumbnail: /assets/images/Su.png
