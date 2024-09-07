@@ -6,10 +6,10 @@ image:
   # caption: "Photo from [Pexels](https://www.pexels.com)"
 ---
 
-Ph.D student joined in 2018.
+
 
 ## Curriculum Vitae
-
+Ph.D student joined in 2018.
 ### Education
 - **Ph.D. in Bioinformatics**, University XYZ, 2017–2022
 - **B.Sc. in Biology**, University ABC, 2012–2016
