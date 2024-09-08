@@ -9,7 +9,7 @@ layout: post
 
 <img src="{{ '/assets/images/Su.png' | relative_url }}" alt="Su" style="max-width: 300px; height: auto;">
 
-Ph.D student joined in 2018.
+## Ph.D student joined in 2018.
 Ph.D student joined in 2018.
 Ph.D student joined in 2018.
 Ph.D student joined in 2018.

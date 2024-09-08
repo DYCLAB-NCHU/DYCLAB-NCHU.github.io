@@ -1,12 +1,12 @@
 ---
 title: "Student 1"
-image: 
-  path: /assets/images/Eric_profile.jpg
-  thumbnail: /assets/images/Eric_profile.jpg
+# image: 
+#   path: /assets/images/Eric_profile.jpg
+#   thumbnail: /assets/images/Eric_profile.jpg
   # caption: "Photo from [Pexels](https://www.pexels.com)"
 ---
 
-
+<img src="{{ '/assets/images/Eric_profile.jpg' | relative_url }}" alt="Su" style="max-width: 300px; height: auto;">
 
 ## Curriculum Vitae
 Ph.D student joined in 2018.
