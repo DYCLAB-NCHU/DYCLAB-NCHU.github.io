@@ -12,7 +12,6 @@ title: "Linda"
 Mater student joined in 2022, graduate at 2024.
 ### Education
 - **Master in public health**, Grade institute of Public Health and Microbioloy, National Chung Hsing University, 2022–2024
-- **B.Sc. in Biology**, University ABC, 2012–2016
 
 <!-- ### Experience
 - **Research Assistant**, XYZ Lab, 2018–Present
