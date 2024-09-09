@@ -1,5 +1,5 @@
 ---
-title: "Super Stupid Susun"
+title: "Susun"
 layout: post
 # image: 
 #   path: /assets/images/Su.png

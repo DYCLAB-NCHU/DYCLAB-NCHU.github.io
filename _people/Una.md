@@ -1,5 +1,5 @@
 ---
-title: "Student 1"
+title: "Una"
 # image: 
 #   path: /assets/images/Eric_profile.jpg
 #   thumbnail: /assets/images/Eric_profile.jpg
@@ -9,14 +9,13 @@ title: "Student 1"
 <!-- <img src="{{ '/assets/images/Eric_profile.jpg' | relative_url }}" alt="Su" style="max-width: 300px; height: auto;"> -->
 
 ## Curriculum Vitae
-Ph.D student joined in 2018.
+Ph.D student joined in 2024.
 ### Education
-- **Ph.D. in Bioinformatics**, University XYZ, 2017–2022
-- **B.Sc. in Biology**, University ABC, 2012–2016
 
-### Experience
+
+<!-- ### Experience
 - **Research Assistant**, XYZ Lab, 2018–Present
-  - Conducted research on scRNA-seq and transcriptomics.
+  - Conducted research on scRNA-seq and transcriptomics. -->
 
-### Publications
-- **Chen, B.J., et al.** (2021). "Title of Paper." *Jou
+<!-- ### Publications
+- **Chen, B.J., et al.** (2021). "Title of Paper." *Jou -->
