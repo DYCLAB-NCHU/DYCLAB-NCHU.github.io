@@ -6,7 +6,7 @@ title: "Linda"
   # caption: "Photo from [Pexels](https://www.pexels.com)"
 ---
 
-<img src="{{ '/assets/images/Eric_profile.jpg' | relative_url }}" alt="Su" style="max-width: 300px; height: auto;">
+<img src="{{ '/assets/images/Linda.jpg' | relative_url }}" alt="Su" style="max-width: 300px; height: auto;">
 
 ## Curriculum Vitae
 Mater student joined in 2022, graduate at 2024.
