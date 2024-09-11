@@ -1,6 +1,6 @@
 ---
 title: "Peter"
-order: 8
+weight: 8
 # image: 
 #   path: /assets/images/Eric_profile.jpg
 #   thumbnail: /assets/images/Eric_profile.jpg

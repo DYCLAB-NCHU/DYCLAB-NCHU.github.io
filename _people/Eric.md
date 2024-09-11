@@ -1,6 +1,6 @@
 ---
 title: "Eric"
-order: 2
+weight: 2
 # image: 
 #   path: /assets/images/Eric_profile.jpg
 #   thumbnail: /assets/images/Eric_profile.jpg

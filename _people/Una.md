@@ -1,6 +1,6 @@
 ---
 title: "Una"
-order: 7
+weight: 7
 # image: 
 #   path: /assets/images/Eric_profile.jpg
 #   thumbnail: /assets/images/Eric_profile.jpg
