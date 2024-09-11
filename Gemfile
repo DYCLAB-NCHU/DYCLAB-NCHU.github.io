@@ -4,6 +4,8 @@ source "https://rubygems.org"
 
 # use local theme gem for testing
 gem "jekyll-theme-basically-basic"
+gem 'github-pages'
+gem 'faraday-retry'
 
 # Jekyll plugins
 group :jekyll_plugins do
