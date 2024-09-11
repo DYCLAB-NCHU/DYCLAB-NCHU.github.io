@@ -1,6 +1,6 @@
 ---
 title: "Day Yu Chao"
-weight: 1
+order: 1
 # image: 
 #   path: /assets/images/Eric_profile.jpg
 #   thumbnail: /assets/images/Eric_profile.jpg

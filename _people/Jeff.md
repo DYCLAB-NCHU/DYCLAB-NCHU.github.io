@@ -1,6 +1,6 @@
 ---
 title: "Jeffery"
-weight: 4
+order: 4
 # image: 
 #   path: /assets/images/Eric_profile.jpg
 #   thumbnail: /assets/images/Eric_profile.jpg

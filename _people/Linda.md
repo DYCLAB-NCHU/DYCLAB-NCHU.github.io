@@ -1,6 +1,6 @@
 ---
 title: "Linda"
-weight: 6
+order: 6
 # image: 
 #   path: /assets/images/Eric_profile.jpg
 #   thumbnail: /assets/images/Eric_profile.jpg

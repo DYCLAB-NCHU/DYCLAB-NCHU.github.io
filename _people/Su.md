@@ -1,6 +1,6 @@
 ---
 title: "Susun"
-weight: 3
+order: 3
 layout: post
 # image: 
 #   path: /assets/images/Su.png
