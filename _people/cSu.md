@@ -12,7 +12,7 @@ layout: post
 
 
 ## Curriculum Vitae
-Ph.D student joined in 2018 summer, graduate at 2020. 
+Ph.D student joined in 2020 winter. 
 ### Education
 - **Master in public health**, Grade institute of Public Health and Microbioloy, National Chung Hsing University, 2018–2020
 

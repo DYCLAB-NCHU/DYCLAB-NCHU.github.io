@@ -10,10 +10,9 @@ order: 2
 <img src="{{ '/assets/images/Eric.jpg' | relative_url }}" alt="Su" style="max-width: 300px; height: auto;">
 
 ## Curriculum Vitae
-Ph.D student joined in 2020.
+Ph.D student joined in 2020 summer.
 ### Education
-- **Ph.D. in Bioinformatics**, University XYZ, 2017–2022
-- **B.Sc. in Biology**, University ABC, 2012–2016
+- **Master in public health**, Grade institute of Public Health and Microbioloy, National Chung Hsing University, 2018–2020
 
 <!-- ### Experience
 - **Research Assistant**, XYZ Lab, 2018–Present
