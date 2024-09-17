@@ -1,6 +1,7 @@
 ---
 title: "Eunis (Graduate at 2024)"
 order: 5
+member_status: past
 # image: 
 #   path: /assets/images/Eric_profile.jpg
 #   thumbnail: /assets/images/Eric_profile.jpg

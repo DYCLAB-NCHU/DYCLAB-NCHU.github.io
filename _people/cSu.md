@@ -2,6 +2,7 @@
 title: "Susun"
 order: 3
 layout: post
+member_status: current
 # image: 
 #   path: /assets/images/Su.png
 #   thumbnail: /assets/images/Su.png

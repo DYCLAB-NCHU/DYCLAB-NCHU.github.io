@@ -5,6 +5,7 @@ order: 2
 #   path: /assets/images/Eric_profile.jpg
 #   thumbnail: /assets/images/Eric_profile.jpg
   # caption: "Photo from [Pexels](https://www.pexels.com)"
+member_status: past
 ---
 
 <img src="{{ '/assets/images/Eric.jpg' | relative_url }}" alt="Su" style="max-width: 300px; height: auto;">

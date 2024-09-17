@@ -1,6 +1,7 @@
 ---
 title: "Jeffery"
 order: 4
+member_status: current
 # image: 
 #   path: /assets/images/Eric_profile.jpg
 #   thumbnail: /assets/images/Eric_profile.jpg
